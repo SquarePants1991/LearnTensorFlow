@@ -5,7 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/验证码识别" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/人脸识别分类" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="3.6 @ Ubuntu" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
